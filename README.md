@@ -10,13 +10,13 @@ Este projeto é uma Pokédex interativa desenvolvida com o Flet e usando dados d
 - Interface responsiva configurada para simular o estilo de uma Pokédex.
 
 ## 📸 Visualizações
-*Adicione aqui imagens ou capturas de tela do projeto posteriormente.*
-
-## 🛠️ Pré-requisitos e Configuração do Projeto
+![Interface da Pokedex](https://i.ibb.co/3BWfFwk/Pok-dex-07-11-2024-08-21-07.png)
+![Interface da Pokedex](https://i.ibb.co/FYJMpD4/Pok-dex-07-11-2024-08-21-53.png)
+![Interface da Pokedex](https://i.ibb.co/Xph14jb/Pok-dex-07-11-2024-08-22-53.png)
 
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/GabrielNunes5/Conversor-De-Moedas-Flet.git
+   git clone https://github.com/GabrielNunes5/Pokedex-Flet.git
    ```
 2. **Instale as dependências**:
    ```bash
